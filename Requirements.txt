@@ -1,0 +1,6 @@
+flask
+pydub
+SpeechRecognition
+python-docx
+openai
+gunicorn
